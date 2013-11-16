@@ -26,7 +26,7 @@ How to run
 Screenshot
 ==========
 
-![ScreenShot](https://raw.github.com/gtmtechltd/redmine-dashboard/master/doc/screenshot.png)
+![ScreenShot](https://raw.github.com/gtmtechltd/redmine-dash/master/doc/screenshot.png)
 
 Caveats
 =======
